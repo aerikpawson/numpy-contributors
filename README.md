@@ -1,0 +1,1 @@
+This visualization of the NumPy codebase contributors is inspired by the project created by @dynamicwebpaige : https://github.com/dynamicwebpaige/nanowrimo-2021/blob/main/15_VS_Code_contributors.ipynb
